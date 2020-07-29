@@ -1,5 +1,4 @@
 # hi
-## smaol
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+![Discord](https://img.shields.io/discord/719349880979587117?label=my%20cool%20discord%20server%3A)
 
-quick test
+i'm just some random 13 year old from the internet that's into enterprise networking and hardware. 😎
