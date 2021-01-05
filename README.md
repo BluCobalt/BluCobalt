@@ -1,4 +1,6 @@
-# hi
-![Discord](https://img.shields.io/discord/719349880979587117?label=my%20cool%20discord%20server%3A)
+# hello there
+[![Luke's github stats](https://github-readme-stats.vercel.app/api?username=BluCobalt&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blucobalt&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-i'm just some random 14 year old from the internet that's into enterprise networking and hardware. 😎
+![Total Profile Views](https://profile-counter.glitch.me/BluCobalt/count.svg)
